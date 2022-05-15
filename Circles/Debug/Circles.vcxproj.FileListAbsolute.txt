@@ -1,0 +1,2 @@
+C:\Users\temka\Desktop\TestSFML\Circles\Debug\Circles.exe
+C:\Users\temka\Desktop\2-2\Data structure\microbsSFML\Circles\Debug\Circles.exe
